@@ -1,0 +1,11 @@
+:root {
+  --color-white: #ffffff;
+  --color-blue: #002147;        /* Oxford Blue */
+  --color-gold: #C29B3C;
+  --color-tan: #D2B48C;
+
+  --color-bg-muted: #CBB294;
+  --color-highlight: #FFD700;
+  --color-text-dark: #333333;
+  --color-text-light: #E1E5EE;
+}
